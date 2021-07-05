@@ -59,6 +59,6 @@ To make use of all the functionalities of this web application you have to regis
 - I deployed both the front and back-end to heroku
 
 ## Resources Used
-NetNinja - https://youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
-Web Dev Simplified - https://youtu.be/mbsmsi7l3r4
-Traversy Media - https://youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE
+* NetNinja - https://youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
+* Web Dev Simplified - https://youtu.be/mbsmsi7l3r4
+* Traversy Media - https://youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE
