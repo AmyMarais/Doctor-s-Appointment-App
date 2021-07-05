@@ -3,6 +3,24 @@
 ## LIVE DEMO HERE: 
 https://doctor-appointment-mern-app.herokuapp.com/
 
+## Screenshots of application
+- Home Page
+![Screenshot (143)](https://user-images.githubusercontent.com/81366533/124412049-f6eed680-dd4d-11eb-8498-e393a836acfc.png)
+
+- Login Page
+![Screenshot (144)](https://user-images.githubusercontent.com/81366533/124412122-17b72c00-dd4e-11eb-96fe-e8ad0534e940.png)
+
+- Appointment List
+![Screenshot (145)](https://user-images.githubusercontent.com/81366533/124412141-243b8480-dd4e-11eb-9d55-861ed263eafa.png)
+
+- Add New Appointments
+![Screenshot (146)](https://user-images.githubusercontent.com/81366533/124412175-33bacd80-dd4e-11eb-8783-1ff5961489a0.png)
+
+- Update Appointments
+![Screenshot (147)](https://user-images.githubusercontent.com/81366533/124412200-43d2ad00-dd4e-11eb-9551-7593e27c87a3.png)
+
+
+
 # Software Requirements
 * I will be creating an application that allows doctors to track information about patients and appointments made.
 * I will make use of the MERN stack to create this web application
