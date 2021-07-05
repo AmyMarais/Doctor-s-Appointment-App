@@ -15,7 +15,7 @@ class Home extends Component{
                <img src={home} alt="background"/>
                <div className="text-wrapper">
                    <a href="/login"><Button className="HomeLoginButton"><b>Sign in</b></Button></a>{/*Here is the sign button*/}
-                   <h1 className="HomeHeading">{`What's up doc, keep track of your\n appointments quick and easy!`}</h1>
+                   <h1 className="HomeHeading">{`It's a good day to save lives Doc!`}</h1>
                    <br/>
                    <a href="/register"><Button className="HomeButton"><b>Register</b></Button></a>{/*Button to register*/}
                </div>
