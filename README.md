@@ -1,7 +1,7 @@
 # Doctor's Appointment MERN application
 
-## DEMO: 
-insert link
+## LIVE DEMO HERE: 
+https://doc-appointment-mern.herokuapp.com/
 
 # Software Requirements
 * I will be creating an application that allows doctors to track information about patients and appointments made.
