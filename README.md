@@ -48,6 +48,7 @@ To make use of all the functionalities of this web application you have to regis
    `
    DB: enter mongoDB string 
    PORT: enter port number
+   JWT_SECRET = enter secret
    `
 - type `npm run dev` to run the client and the backend of the application concurrently
 
